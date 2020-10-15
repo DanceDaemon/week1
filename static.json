@@ -1,8 +1,11 @@
 {
-  "headers":{
-    "/*": {
-      "X-Author": "Савостин, Евгений Александрович",
-      "Access-Control-Allow-Origin": "*"
+  {
+    "encoding": "UTF-8",
+    "headers":{
+      "/*": {
+        "X-Author": "Савостин, Евгений Александрович",
+        "Access-Control-Allow-Origin": "*"
+      }
     }
   }
 }
