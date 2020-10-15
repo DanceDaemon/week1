@@ -1,8 +1,8 @@
 {
  "headers":{
-  "/*":{
-    "X-Author": "Савостин, Евгений Александрович",
-    "Access-Control-Allow-Origin": "*"
-  }
+   "/*":{
+     "X-Author": "Савостин, Евгений Александрович",
+     "Access-Control-Allow-Origin": "*"
+   }
  }
 }
